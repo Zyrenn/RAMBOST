@@ -8,15 +8,15 @@
 <br>
 </p>
 <div>
-<img src="https://images.pexels.com/photos/17257594/pexels-photo-17257594.jpeg" align="right">
+<img src="https://images.pexels.com/photos/17257613/pexels-photo-17257613.png?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2" align="right">
 <div>
 </p>
 </p>
 <h4><font size="2"><a href="https://youtube.com/c/PakTzy"><font color="red">SUBSCRIBE</font>
 </h4>
-<h4><font size="2"><a href="https://instagram.com/raditya_yoga19?igshid=ZDdkNTZiNTM="><font color="red">FOLLOW INSTAGRAM</font>
+<h4><font size="2"><a href="https://instagram.com/raditxz7?igshid=NGExMmI2YTkyZg=="><font color="red">FOLLOW INSTAGRAM</font>
 </h4>
-<h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>          
+<h4><font size="2"><a href="https://t.me/RadiitXzz"><font color="red">TELEGRAM</font>          
 </p>
 </p>
 <p align="center"> </p> <img src="https://img.shields.io/badge/adobe%20photoshop%20-%2331A8FF.svg?&style=for-the-badge&logo=adobe%20photoshop&logoColor=white"/> </p> <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/> </p> <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/> </p>
