@@ -44,6 +44,7 @@ MENGOPTIMALKAN RAM
 ## CARA INSTALL
 ```ts
 Perintah Instalasi:-
+pkg update && pkg upgrade
 pkg up -y;pkg install git -y;pkg install wget -y;pkg install curl -y
 git clone https://github.com/Zyrenn/RAMBOST.git
 cd RAMBOST
